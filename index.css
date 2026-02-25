@@ -1,0 +1,40 @@
+body { 
+    background: #fff; 
+    color: #111; }
+
+.container { 
+    max-width: 780px; 
+    margin: 36px auto; 
+    text-align: center; }
+
+h1 { 
+    font-size: 48px; 
+    margin: 0 0 6px; }
+      
+    
+.subtitle { 
+    margin: 0 0 18px; 
+    font-size: 18px; }
+
+table {
+    width: 640px; 
+    max-width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse; 
+    border: 4px solid #111; }
+
+thead th { 
+    background: #eee; 
+    font-weight: 700; 
+    font-size: 16px; 
+    padding: 10px 12px; 
+    border-bottom: 2px solid #111; }
+      
+tbody td { 
+    padding: 10px 12px; 
+    border-top: 1px dashed #bfbfbf; 
+    text-align: left; }
+
+/*tbody tr:nth-child(odd) td { background: #f6f6f6; }
+      .rate { text-align: right; width: 120px; }
+      .name { width: 180px; font-weight: 600; }*/
